@@ -1,30 +1,6 @@
 ### Hi there 👋
-
-<!--
-**sufyant/sufyant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
-<div class="Box mt-4">
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <svg class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.326 1.973a1.2 1.2 0 011.49-.832c.387.112.977.307 1.575.602.586.291 1.243.71 1.7 1.296.022.027.042.056.061.084A13.22 13.22 0 018 3c.67 0 1.289.037 1.861.108l.051-.07c.457-.586 1.114-1.004 1.7-1.295a9.654 9.654 0 011.576-.602 1.2 1.2 0 011.49.832c.14.493.356 1.347.479 2.29.079.604.123 1.28.07 1.936.541.977.773 2.11.773 3.301C16 13 14.5 15 8 15s-8-2-8-5.5c0-1.034.238-2.128.795-3.117-.08-.712-.034-1.46.052-2.12.122-.943.34-1.797.479-2.29zM8 13.065c6 0 6.5-2 6-4.27C13.363 5.905 11.25 5 8 5s-5.363.904-6 3.796c-.5 2.27 0 4.27 6 4.27z"></path><path d="M4 8a1 1 0 012 0v1a1 1 0 01-2 0V8zm2.078 2.492c-.083-.264.146-.492.422-.492h3c.276 0 .505.228.422.492C9.67 11.304 8.834 12 8 12c-.834 0-1.669-.696-1.922-1.508zM10 8a1 1 0 112 0v1a1 1 0 11-2 0V8z"></path></svg>
-        <a href="/cobanov/cobanov" class="no-underline link-gray-dark">cobanov</a><span class="text-gray-light d-inline-block" style="padding:0px 2px;">/</span>README<span class="text-gray-light">.md</span>
-      </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/faaa499d1b02d950cad09c6d87f8aae555a7173bb9788799f50bc4a04b7f7fc7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f62616e6f762673686f775f69636f6e733d74727565"><img align="right" src="https://camo.githubusercontent.com/faaa499d1b02d950cad09c6d87f8aae555a7173bb9788799f50bc4a04b7f7fc7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f62616e6f762673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=cobanov&amp;show_icons=true" style="max-width:100%;"></a></p>
+</div>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/faaa499d1b02d950cad09c6d87f8aae555a7173bb9788799f50bc4a04b7f7fc7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f62616e6f762673686f775f69636f6e733d74727565"><img align="right" src="https://camo.githubusercontent.com/faaa499d1b02d950cad09c6d87f8aae555a7173bb9788799f50bc4a04b7f7fc7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f62616e6f762673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=cobanov&amp;show_icons=true" style="max-width:100%;"></a></p>
 <h1><a id="user-content-merhaba-ben-mert-cobanov" class="anchor" aria-hidden="true" href="#merhaba-ben-mert-cobanov"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Merhaba, ben Mert Cobanov!</h1>
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ab7d34e6dc23ad110f059bcda97be211354f12916e184b622556427027d43d61/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f62616e6f76"><img src="https://camo.githubusercontent.com/ab7d34e6dc23ad110f059bcda97be211354f12916e184b622556427027d43d61/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f62616e6f76" alt="cobanov" data-canonical-src="https://komarev.com/ghpvc/?username=cobanov" style="max-width:100%;"></a> </p>
 <p><a href="https://www.youtube.com/mertcobanov" rel="nofollow"><img src="https://camo.githubusercontent.com/241d4106ff5edca2ee25e04dcf4546fad9d20b626f7a10990307e8f83e95459f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f796f75747562652d2532334646303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465253232" alt="" data-canonical-src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white%22" style="max-width:100%;"></a>
