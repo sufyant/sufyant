@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sufyantaskin@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
