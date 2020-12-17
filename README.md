@@ -2,9 +2,6 @@
 <h3 align="center">Software Engineer & Data Scientist</h3>
 
 
-
-- 🌱 I’m currently learning **DeepLearning**
-
 - 📫 How to reach me **sufyantaskin@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
