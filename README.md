@@ -33,7 +33,7 @@ Hi there 👋, My name is Süfyan.
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiturali&layout=compact&hide=html" alt="ezgiturali" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyant&layout=compact&hide=html" alt="sufyant" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyant&show_icons=true" alt="sufyant" /></p>
