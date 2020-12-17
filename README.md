@@ -14,6 +14,8 @@ Hi there 👋, My name is Süfyan.
 
 * 📄 Know about my experiences [Resume](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
 
+* 📫 How to reach me: **sufyantaskin@gmail.com**
+
 
 
 **🌈 Languages and Tools:**
