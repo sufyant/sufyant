@@ -1,7 +1,8 @@
 # Süfyan Taşkın
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sufyant/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sufyantaskin@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail Badge](https://img.shields.io/badge/-sufyantaskin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sufyantaskin@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Süfyan%20Taşkın-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@sufyantaskin-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sufyantaskin "Follow on Twitter")
 
 Hi there 👋, My name is Süfyan. 
 
