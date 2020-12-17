@@ -6,7 +6,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Süfyan%20Taşkın-00acee?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sufyant "Follow on Kaggle")
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyant" alt="sufyant" /> </p>
 
 Hi there 👋, My name is Süfyan. 
 
@@ -33,3 +33,8 @@ Hi there 👋, My name is Süfyan.
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samujjwaal.samujjwaal)
+[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
+![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
