@@ -17,7 +17,7 @@ Hi there 👋, My name is Süfyan.
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+**🌈 Languages and Tools:**
 
 
 <p align="left"> 
