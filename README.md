@@ -31,19 +31,3 @@ Hi there 👋, My name is Süfyan.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samujjwaal.samujjwaal)
-[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
-![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-
-<a href="https://github.com/sufyant/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sufyant&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyant" width="350"/>
-</a>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyant)
