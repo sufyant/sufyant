@@ -13,8 +13,7 @@
 <a href="https://kaggle.com/sufyant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sufyant" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     
