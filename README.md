@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufyan</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
 
-<p align="left"> <a href="https://twitter.com/sufyantaskin" target="blank"><img src="https://img.shields.io/twitter/follow/sufyantaskin?logo=twitter&style=for-the-badge" alt="sufyantaskin" /></a> </p>
+
 
 - 🌱 I’m currently learning **DeepLearning**
 
