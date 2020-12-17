@@ -34,4 +34,4 @@ Hi there 👋, My name is Süfyan.
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyant&show_icons=true" alt="sufyant" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyant&show_icons=false" alt="sufyant" /></p>
