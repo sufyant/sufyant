@@ -1,7 +1,7 @@
 # Süfyan Taşkın
 
 [![Gmail Badge](https://img.shields.io/badge/-sufyantaskin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sufyantaskin@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Süfyan%20Taşkın-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sahil-cerit "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Süfyan%20Taşkın-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufyant "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@sufyantaskin-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sufyantaskin "Follow on Twitter")
 
 Hi there 👋, My name is Süfyan. 
