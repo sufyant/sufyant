@@ -14,12 +14,6 @@ Hi there 👋, My name is Süfyan.
 
 * 📄 Know about my experiences [Resume](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
 
-**📞 Connect with me:**
-<p align="left">
-<a href="https://twitter.com/sufyantaskin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sufyantaskin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sufyant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sufyant" height="30" width="40" /></a>
-<a href="https://kaggle.com/sufyant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sufyant" height="30" width="40" /></a>
-</p>
 
 
 **🌈 Languages and Tools:**
