@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyant" alt="sufyant" /> </p>
 
-Hi there 👋, My name is Süfyan. 
+Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" width="30px">, My name is Süfyan. 
 
 * :computer: Currently working [@Itelligence](https://itelligencegroup.com/tr/) | Software Engineer
 
