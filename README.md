@@ -11,7 +11,7 @@ Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" 
 
 * :computer: Currently working [@Itelligence](https://itelligencegroup.com/tr/) | Software Engineer
 
-* 📄 Know about my experiences [Resume](https://github.com/sufyant/sufyant/blob/main/Sufyan%20Taskin%20CV.pdf)
+* 📄 Know about my experiences [Resume](https://www.sufyant.com/resume.pdf)
 
 * 📫 How to reach me: **sufyantaskin@gmail.com**
 
