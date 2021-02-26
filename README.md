@@ -5,8 +5,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Süfyan%20Taşkın-00acee?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sufyant "Follow on Kaggle")
 [![Website Badge](https://img.shields.io/badge/website-sufyant.com-critical)](https://www.sufyant.com/ "Reach me!")
 
-https://img.shields.io/badge/website-sufyant.com-critical
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyant" alt="sufyant" /> </p>
 
