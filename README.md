@@ -10,7 +10,7 @@
 
 Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" width="30px">, My name is Süfyan. 
 
-* :computer: Currently working [@Itelligence](https://itelligencegroup.com/tr/) | Software Engineer
+* :computer: Currently working [@NTT Data](https://www.nttdata.com/global/en/) | Software Engineer
 
 * 📄 Know about my experiences [Resume](https://www.sufyant.com/resume.pdf)
 
