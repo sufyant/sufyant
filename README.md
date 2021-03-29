@@ -6,8 +6,6 @@
 [![Website Badge](https://img.shields.io/badge/-sufyant.com-critical)](https://www.sufyant.com/ "Reach me!")
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyant" alt="sufyant" /> </p>
-
 Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" width="30px">, My name is Süfyan. 
 
 * :computer: Currently working [@NTT Data](https://www.nttdata.com/global/en/) | Software Engineer
