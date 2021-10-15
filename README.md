@@ -8,7 +8,7 @@
 
 Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" width="30px">, My name is Süfyan. 
 
-* :computer: Currently working [@NTT Data](https://www.nttdata.com/global/en/) | Software Engineer
+* :computer: Currently studying [@Technological University of Shannon](https://tus.ie/) | MSc in Data Analytics
 
 * 📄 Know about my experiences [Resume](https://www.sufyant.com/resume.pdf)
 
