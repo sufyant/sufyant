@@ -8,7 +8,7 @@
 
 Hi there <img src="https://github.com/ameyinvent/ameyinvent/blob/master/hi.gif" width="30px">, My name is Süfyan. 
 
-* :computer: MSc in Data Analytics educated at [@Technological University of Shannon](https://tus.ie/) | 
+* :computer: MSc in Data Analytics educated at [@Technological University of Shannon](https://tus.ie/)
 
 * 📄 Know about my experiences [Resume](https://www.sufyant.com/resume.pdf)
 
